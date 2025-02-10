@@ -41,6 +41,7 @@ In my free time, I enjoy exploring new data analysis tools and techniques. I am 
 * **Chronic vs. Acute Conditions:** Chronic diseases like arthritis & obesity are more common in females, while males and older adults suffer from acute conditions like sepsis, TBI, and cancer.
 * **Blood Type Influences Costs:** O+ and A+ patients dominate healthcare usage, while rare blood types (AB+, B-) face higher costs per patient due to severe cases.
 * **Hospitals vs. Clinics:** Hospitals handle severe and high-cost cases, while clinics manage routine and chronic conditions.
+  > ![Star Schema Diagram](https://github.com/aurimasplaga/Healthcare_demographic_analysis/blob/main/Dashboards/Scatter%20Point%20Chart.png)
 * **High-Cost Insurance Providers:** UnitedHealthcare & Medicare dominate claims, while Cigna has fewer claims but the highest average billing.
 
 **📌 Key Recomendations:**
