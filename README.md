@@ -22,7 +22,7 @@ Though I’m still relatively new to data analytics, I am a fast learner who thr
 
 # Portfolio Projects
 
-## Healthcare Demographic & Cost Analysis:
+## [Healthcare Demographic & Cost Analysis:](https://github.com/aurimasplaga/Healthcare_demographic_analysis)
 
 **❓Question Answered: How do patient demographics (age, gender, and blood type) influence hospital costs and interactions with insurance providers?**
 
