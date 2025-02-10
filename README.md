@@ -11,9 +11,9 @@ In my free time, I enjoy exploring new data analysis tools and techniques. I am 
 
 # Table of Contents
 
-* About
-* Portfolio Projects
-	* Healthcare Demographics Analysis
+* [About](https://github.com/aurimasplaga/Aurimas_Plaga_Portfolio-Projects#about)
+* [Portfolio Projects](https://github.com/aurimasplaga/Aurimas_Plaga_Portfolio-Projects?tab=readme-ov-file#portfolio-projects)
+	* [Healthcare Demographics Analysis](https://github.com/aurimasplaga/Aurimas_Plaga_Portfolio-Projects?tab=readme-ov-file#healthcare-demographic--cost-analysis)
 * Education
 * Contacts
 
