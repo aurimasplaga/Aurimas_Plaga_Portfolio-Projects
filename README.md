@@ -7,7 +7,9 @@ My name is Aurimas. I have a background in organic and analytical chemistry, and
 
 During my career in chemistry, I gained familiarity with various types of analytical methods, which has helped me develop a strong foundation in data interpretation and problem-solving. I’m now eager to transition these analytical skills into a more data-centric field, applying them to uncover meaningful patterns and trends in data.
 
-In my free time, I enjoy exploring new data analysis tools and techniques. I am always seeking opportunities to expand my knowledge and grow in the field of data analytics. Whether working independently or as part of a team, I am driven by the satisfaction of discovering new insights and using data to tackle challenges.
+Though I’m still relatively new to data analytics, I am a fast learner who thrives on adapting to new methods and gaining deeper insights with each passing day. Whether working independently or collaborating with others, I am driven by curiosity and the excitement of uncovering meaningful patterns in data to solve challenges.
+
+# [My CV Can be found here](https://github.com/aurimasplaga/Aurimas_Plaga_Portfolio-Projects#about)
 
 # Table of Contents
 
