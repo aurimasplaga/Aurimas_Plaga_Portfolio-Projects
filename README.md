@@ -38,6 +38,7 @@ In my free time, I enjoy exploring new data analysis tools and techniques. I am 
 
 * **Demographics Directly Impact Costs:** Age, gender, and blood type significantly influence hospital billing, severity of cases, and insurance claim distribution.
 * **Older Patients & Males Drive Higher Costs:** Patients aged 60+ and males incur higher medical expenses due to severe conditions and longer hospital stays.
+* **Severity and Aging:** Severe conditions like cancer and sepsis become increasingly common with age, while traumatic brain injuries (TBI) are more prevalent among younger adults.
 * **Chronic vs. Acute Conditions:** Chronic diseases like arthritis & obesity are more common in females, while males and older adults suffer from acute conditions like sepsis, TBI, and cancer.
 * **Blood Type Influences Costs:** O+ and A+ patients dominate healthcare usage, while rare blood types (AB+, B-) face higher costs per patient due to severe cases.
 * **Hospitals vs. Clinics:** Hospitals handle severe and high-cost cases, while clinics manage routine and chronic conditions.
