@@ -1,10 +1,13 @@
-# Aurimas_Plaga_Portfolio-Projects
+# Aurimas Plaga Portfolio Projects
 
 
 # About
 
+My name is Aurimas. I have a background in organic and analytical chemistry, and I am currently on track to learn Data Analytics at Turing College. I love what a data analyst does and am passionate about utilizing data to uncover valuable insights and solve complex problems.
 
-Hello, my name is Aurimas Plaga, and I am an aspiring data analyst passionate about turning data into actionable insights. This GitHub repository showcases my portfolio projects, demonstrating my skills in data analysis, visualization, and database management as I work toward building a successful career in the field.
+During my career in chemistry, I gained familiarity with various types of analytical methods, which has helped me develop a strong foundation in data interpretation and problem-solving. I’m now eager to transition these analytical skills into a more data-centric field, applying them to uncover meaningful patterns and trends in data.
+
+In my free time, I enjoy exploring new data analysis tools and techniques. I am always seeking opportunities to expand my knowledge and grow in the field of data analytics. Whether working independently or as part of a team, I am driven by the satisfaction of discovering new insights and using data to tackle challenges.
 
 # Table of Contents
 
