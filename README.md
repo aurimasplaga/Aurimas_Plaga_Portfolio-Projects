@@ -43,7 +43,7 @@ In my free time, I enjoy exploring new data analysis tools and techniques. I am 
 * **Hospitals vs. Clinics:** Hospitals handle severe and high-cost cases, while clinics manage routine and chronic conditions.
 * **High-Cost Insurance Providers:** UnitedHealthcare & Medicare dominate claims, while Cigna has fewer claims but the highest average billing.
 
-**📌 Key Recoomendations:**
+**📌 Key Recomendations:**
 * **Demographic-Specific Strategies:** Allocate more resources to high-cost groups (elderly, males, rare blood types) while enhancing preventive care for younger adults and females.
 * **Preventive Care Focus:** Target younger adults for injury prevention, middle-aged adults for chronic disease management, and males for trauma reduction.
 * **Optimized Resource Allocation:** Increase hospital capacity for severe cases, strengthen clinic support for chronic care, and create specialized programs for high-cost demographics.
