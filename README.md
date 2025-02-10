@@ -16,6 +16,7 @@ Though I’m still relatively new to data analytics, I am a fast learner who thr
 * [About](https://github.com/aurimasplaga/Aurimas_Plaga_Portfolio-Projects#about)
 * [Portfolio Projects](https://github.com/aurimasplaga/Aurimas_Plaga_Portfolio-Projects?tab=readme-ov-file#portfolio-projects)
 	* [Healthcare Demographics Analysis](https://github.com/aurimasplaga/Aurimas_Plaga_Portfolio-Projects?tab=readme-ov-file#healthcare-demographic--cost-analysis)
+	* AdventureWorks Multi-Year Business Analytics	 
 * Education
 * Contacts
 
