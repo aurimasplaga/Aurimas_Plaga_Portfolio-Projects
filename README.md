@@ -90,6 +90,23 @@ Though I’m still relatively new to data analytics, I am a fast learner who thr
 - **Product Focus:** Prioritize high-margin products and reassess product lines with recurring losses.
 - **Targeted Marketing:** Concentrate efforts on high-performing regions and support underperforming sales teams with targeted training and resources.
 
+## AdventureWorks Multi-Year Business Analytics:
+
+**🎯 Goal:** The goal of this project is to analyze customer sentiment from Amazon book reviews, with the aim of understanding customer satisfaction, identifying trends in book ratings, and uncovering patterns in customer feedback. By leveraging sentiment analysis, this project will provide insights into the overall reception of books, author performance, and specific themes or topics that resonate with readers. This analysis will be done using SQL for data querying, Python (VADER) for sentiment scoring, and Power BI for visualization.
+
+**📄 Description:** Leveraging AdventureWorks sales data, this analysis explores quarterly revenue trends, product performance, and regional sales distribution. The project includes four dashboards: **Quarterly Performance Overview, Sales Insights, Product Analytics**, and **Regional Sales Analysis**. These dashboards help identify high-performing products, track sales efficiency, and uncover market trends to support strategic decision-making and business growth.
+
+**🛠 Skills Used:**
+
+* Sentiment Analysis (VADER in Python)
+* Exploratory Data Analysis (EDA)
+* SQL for Data Querying
+* Power BI for Visualization
+
+# 🚧 **Work in Progress** 🚧
+## This project is currently under development. Stay tuned for updates!
+# 🚧 **Work in Progress** 🚧
+
 # Education
 
 Turing College, Data Analytics program, 2024 -
