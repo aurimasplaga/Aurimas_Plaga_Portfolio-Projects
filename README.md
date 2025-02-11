@@ -13,7 +13,7 @@ Though I’m still relatively new to data analytics, I am a fast learner who thr
 
 # Table of Contents
 
-This repository serves as a platform to showcase my skills, share ongoing projects, and track my progress in the fields of Data Analytics and Data Science. While the portfolio is still a work in progress, it will include projects that demonstrate my ability to analyze and visualize data using SQL, Python, and Power BI. As I continue to develop my expertise in these areas, this repository will evolve to include more complex and impactful analyses, with the goal of illustrating my hands-on experience and growth in the data-driven world.
+This repository serves as a platform to showcase my skills, share ongoing projects, and track my progress in the fields of Data Analytics and Data Science. While the portfolio is still a work in progress, it will include projects that demonstrate my ability to analyze and visualize data using SQL, Python, and Power BI. As I continue to develop my expertise in these areas, this repository will evolve to include more complex and impactful analyses, with the goal of illustrating my hands-on experience and growth in the data-driven world. Please follow the links to projects that are already completed.
 
 * [About](https://github.com/aurimasplaga/Aurimas_Plaga_Portfolio-Projects?tab=readme-ov-file#about)
 * [Portfolio Projects](https://github.com/aurimasplaga/Aurimas_Plaga_Portfolio-Projects?tab=readme-ov-file#portfolio-projects)
