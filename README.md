@@ -58,7 +58,7 @@ Though I’m still relatively new to data analytics, I am a fast learner who thr
 * **Optimized Resource Allocation:** Increase hospital capacity for severe cases, strengthen clinic support for chronic care, and create specialized programs for high-cost demographics.
 * **Data-Driven Decision Making:** Develop integrated healthcare data systems to predict high-risk claims and optimize care delivery.
 
-## [AdventureWorks Multi-Year Business Analytics:](https://github.com/aurimasplaga/Healthcare_demographic_analysis)
+## [AdventureWorks Multi-Year Business Analytics:](https://github.com/aurimasplaga/AdventureWorks-Multi-Year-Business-Analytics)
 
 **🎯 Goal:** This project analyzes key performance indicators (KPIs) across sales, products, and regional markets using the AdventureWorks database. The aim is to provide data-driven insights into quarterly performance, sales trends, product profitability, and regional market dynamics over a three-year fiscal period. The project was conducted as part of the learning process during studies of data analytics in Turing College.
 
@@ -72,6 +72,20 @@ Though I’m still relatively new to data analytics, I am a fast learner who thr
 
 **📈 Results:** 
 
+- **Sales Trends:** Overall revenue has grown steadily, with notable quarterly and monthly variations. For instance, Year 2 Q1 recorded high revenue despite a dip in profit, suggesting rising costs.
+- **Profitability:** Year 1 Q2 had the highest profit, while other quarters showed significant profit declines, indicating potential cost pressures.
+ 
+  > ![Quarterly Profits](https://github.com/aurimasplaga/AdventureWorks-Multi-Year-Business-Analytics/blob/main/Dashboards/Quarterly%20Profits.png)
+- **Sales Channels & Performance:** Offline transactions (87.9% of orders) dominate, and sales are highly concentrated among top performers—the top 5 salespeople contribute over 66% of total revenue.
+
+  > ![Pareto Chart](https://github.com/aurimasplaga/AdventureWorks-Multi-Year-Business-Analytics/blob/main/Dashboards/Pareto%20Chart.png)
+- **Product & Category Performance:** High-revenue subcategories include Mountain and Road Frames, with Road Bikes leading overall. While top items like the "Water Bottle - 30 oz." and "Fender Set - Mountain" perform well, some apparel items register losses.
+- **Geographical Insights:** Key US states such as California and Texas drive sales, and international markets show promising performance, though the US market remains dominant.
+
 
 **📌 Key Recomendations:**
 
+- **Cost Optimization:** Investigate cost drivers in high-revenue quarters to improve profit margins.
+- **Sales Strategy:** Leverage the strength of offline channels while exploring opportunities to boost online sales.
+- **Product Focus:** Prioritize high-margin products and reassess product lines with recurring losses.
+- **Targeted Marketing:** Concentrate efforts on high-performing regions and support underperforming sales teams with targeted training and resources.
