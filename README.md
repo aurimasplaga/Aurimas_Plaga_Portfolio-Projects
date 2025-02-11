@@ -60,7 +60,7 @@ Though I’m still relatively new to data analytics, I am a fast learner who thr
 
 ## [AdventureWorks Multi-Year Business Analytics:](https://github.com/aurimasplaga/Healthcare_demographic_analysis)
 
-**🎯 Goal:** This project analyzes key performance indicators (KPIs) across sales, products, and regional markets using the AdventureWorks database. The aim is to provide data-driven insights into quarterly performance, sales trends, product profitability, and regional market dynamics over a three-year fiscal period.
+**🎯 Goal:** This project analyzes key performance indicators (KPIs) across sales, products, and regional markets using the AdventureWorks database. The aim is to provide data-driven insights into quarterly performance, sales trends, product profitability, and regional market dynamics over a three-year fiscal period. The project was conducted as part of the learning process during studies of data analytics in Turing College.
 
 **📄 Description:** Leveraging AdventureWorks sales data, this analysis explores quarterly revenue trends, product performance, and regional sales distribution. The project includes four dashboards: **Quarterly Performance Overview, Sales Insights, Product Analytics**, and **Regional Sales Analysis**. These dashboards help identify high-performing products, track sales efficiency, and uncover market trends to support strategic decision-making and business growth.
 
