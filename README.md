@@ -52,7 +52,26 @@ Though I’m still relatively new to data analytics, I am a fast learner who thr
 * **High-Cost Insurance Providers:** UnitedHealthcare & Medicare dominate claims, while Cigna has fewer claims but the highest average billing.
 
 **📌 Key Recomendations:**
+
 * **Demographic-Specific Strategies:** Allocate more resources to high-cost groups (elderly, males, rare blood types) while enhancing preventive care for younger adults and females.
 * **Preventive Care Focus:** Target younger adults for injury prevention, middle-aged adults for chronic disease management, and males for trauma reduction.
 * **Optimized Resource Allocation:** Increase hospital capacity for severe cases, strengthen clinic support for chronic care, and create specialized programs for high-cost demographics.
 * **Data-Driven Decision Making:** Develop integrated healthcare data systems to predict high-risk claims and optimize care delivery.
+
+## [AdventureWorks Multi-Year Business Analytics:](https://github.com/aurimasplaga/Healthcare_demographic_analysis)
+
+**🎯 Goal:** This project analyzes key performance indicators (KPIs) across sales, products, and regional markets using the AdventureWorks database. The aim is to provide data-driven insights into quarterly performance, sales trends, product profitability, and regional market dynamics over a three-year fiscal period.
+
+**📄 Description:** Leveraging AdventureWorks sales data, this analysis explores quarterly revenue trends, product performance, and regional sales distribution. The project includes four dashboards: **Quarterly Performance Overview, Sales Insights, Product Analytics**, and **Regional Sales Analysis**. These dashboards help identify high-performing products, track sales efficiency, and uncover market trends to support strategic decision-making and business growth.
+
+**🛠 Skills Used:**
+
+* Exploratory Data Analysis (EDA)
+* SQL for Data Querying
+* Power BI for Visualization
+
+**📈 Results:** 
+
+
+**📌 Key Recomendations:**
+
