@@ -16,7 +16,7 @@ Though I’m still relatively new to data analytics, I am a fast learner who thr
 * [About](https://github.com/aurimasplaga/Aurimas_Plaga_Portfolio-Projects?tab=readme-ov-file#about)
 * [Portfolio Projects](https://github.com/aurimasplaga/Aurimas_Plaga_Portfolio-Projects?tab=readme-ov-file#portfolio-projects)
 	* [Healthcare Demographics Analysis](https://github.com/aurimasplaga/Aurimas_Plaga_Portfolio-Projects?tab=readme-ov-file#healthcare-demographic--cost-analysis)
-	* AdventureWorks Multi-Year Business Analytics	 
+	* [AdventureWorks Multi-Year Business Analytics](https://github.com/aurimasplaga/Aurimas_Plaga_Portfolio-Projects#adventureworks-multi-year-business-analytics)	 
 * Education
 * Contacts
 
@@ -89,3 +89,11 @@ Though I’m still relatively new to data analytics, I am a fast learner who thr
 - **Sales Strategy:** Leverage the strength of offline channels while exploring opportunities to boost online sales.
 - **Product Focus:** Prioritize high-margin products and reassess product lines with recurring losses.
 - **Targeted Marketing:** Concentrate efforts on high-performing regions and support underperforming sales teams with targeted training and resources.
+
+# Education
+
+Turing College, Data Analytics program, 2024 -
+
+Kaunas University of Technology, Master of Science, Applied Chemistry 2021 - 2023
+
+Kaunas University of Technology, Bachelor's of Science, Materials and Nanotechnology 2017 - 2021
