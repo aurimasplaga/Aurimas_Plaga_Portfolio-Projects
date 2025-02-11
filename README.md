@@ -105,9 +105,9 @@ This repository serves as a platform to showcase my skills, share ongoing projec
 * SQL for Data Querying
 * Power BI for Visualization
 
-# 🚧 **Work in Progress** 🚧
-## This project is currently under development. Stay tuned for updates!
-# 🚧 **Work in Progress** 🚧
+### 🚧 **Work in Progress** 🚧
+### This project is currently under development. Stay tuned for updates!
+### 🚧 **Work in Progress** 🚧
 
 # Education
 
