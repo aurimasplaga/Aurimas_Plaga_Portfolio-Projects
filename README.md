@@ -20,7 +20,7 @@ This repository serves as a platform to showcase my skills, share ongoing projec
 	* [Healthcare Demographics Analysis](https://github.com/aurimasplaga/Aurimas_Plaga_Portfolio-Projects?tab=readme-ov-file#healthcare-demographic--cost-analysis)
 	* [AdventureWorks Multi-Year Business Analytics](https://github.com/aurimasplaga/Aurimas_Plaga_Portfolio-Projects#adventureworks-multi-year-business-analytics)	 
 * [Education](https://github.com/aurimasplaga/Portfolio-Projects#education)
-* Contacts
+* [Contacts](https://github.com/aurimasplaga/Portfolio-Projects/blob/main/README.md#contacts)
 
 # Portfolio Projects
 
