@@ -96,7 +96,7 @@ This repository serves as a platform to showcase my skills, share ongoing projec
 - **Product Focus:** Prioritize high-margin products and reassess product lines with recurring losses.
 - **Targeted Marketing:** Concentrate efforts on high-performing regions and support underperforming sales teams with targeted training and resources.
 
-## AdventureWorks Multi-Year Business Analytics:
+## Amazon Book Review Sentimental Analysis:
 
 **🎯 Goal:** The goal of this project is to analyze customer sentiment from Amazon book reviews, with the aim of understanding customer satisfaction, identifying trends in book ratings, and uncovering patterns in customer feedback. By leveraging sentiment analysis, this project will provide insights into the overall reception of books, author performance, and specific themes or topics that resonate with readers. This analysis will be done using SQL for data querying, Python (VADER) for sentiment scoring, and Power BI for visualization.
 
