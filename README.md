@@ -26,6 +26,8 @@ This repository serves as a platform to showcase my skills, share ongoing projec
 
 ## [Healthcare Demographic & Cost Analysis:](https://github.com/aurimasplaga/Healthcare_demographic_analysis)
 
+[Click me to view the full project](https://github.com/aurimasplaga/Healthcare_demographic_analysis)
+
 **❓Question Answered: How do patient demographics (age, gender, and blood type) influence hospital costs and interactions with insurance providers?**
 
 **🎯 Goal:** This project analyzes patient demographics, healthcare costs, and insurance claims to uncover key trends affecting hospital and clinic billing. The aim is to identify high-cost groups, improve resource allocation, and develop targeted preventive care strategies.
@@ -61,6 +63,8 @@ This repository serves as a platform to showcase my skills, share ongoing projec
 * **Data-Driven Decision Making:** Develop integrated healthcare data systems to predict high-risk claims and optimize care delivery.
 
 ## [AdventureWorks Multi-Year Business Analytics:](https://github.com/aurimasplaga/AdventureWorks-Multi-Year-Business-Analytics)
+
+[Click me to view the full project](https://github.com/aurimasplaga/AdventureWorks-Multi-Year-Business-Analytics)
 
 **🎯 Goal:** This project analyzes key performance indicators (KPIs) across sales, products, and regional markets using the AdventureWorks database. The aim is to provide data-driven insights into quarterly performance, sales trends, product profitability, and regional market dynamics over a three-year fiscal period. The project was conducted as part of the learning process during studies of data analytics in Turing College.
 
