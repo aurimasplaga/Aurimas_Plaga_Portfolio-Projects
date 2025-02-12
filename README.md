@@ -9,7 +9,7 @@ During my career in chemistry, I gained familiarity with various types of analyt
 
 Though I’m still relatively new to data analytics, I am a fast learner who thrives on adapting to new methods and gaining deeper insights with each passing day. Whether working independently or collaborating with others, I am driven by curiosity and the excitement of uncovering meaningful patterns in data to solve challenges.
 
-### [Here you can find my CV](https://github.com/aurimasplaga/Portfolio-Projects/blob/main/CV/Aurimas%20Plaga%20-%20CV.pdf)
+### [Here you can find my CV](https://github.com/aurimasplaga/Portfolio-Projects/blob/main/Aurimas%20Plaga%20-%20CV.pdf)
 
 # Table of Contents
 
