@@ -19,7 +19,7 @@ This repository serves as a platform to showcase my skills, share ongoing projec
 * [Portfolio Projects](https://github.com/aurimasplaga/Aurimas_Plaga_Portfolio-Projects?tab=readme-ov-file#portfolio-projects)
 	* [Healthcare Demographics Analysis](https://github.com/aurimasplaga/Aurimas_Plaga_Portfolio-Projects?tab=readme-ov-file#healthcare-demographic--cost-analysis)
 	* [AdventureWorks Multi-Year Business Analytics](https://github.com/aurimasplaga/Aurimas_Plaga_Portfolio-Projects#adventureworks-multi-year-business-analytics)	 
-* Education
+* [Education](https://github.com/aurimasplaga/Portfolio-Projects#education)
 * Contacts
 
 # Portfolio Projects
@@ -116,3 +116,8 @@ Turing College, Data Analytics program, 2024 -
 Kaunas University of Technology, Master of Science, Applied Chemistry 2021 - 2023
 
 Kaunas University of Technology, Bachelor's of Science, Materials and Nanotechnology 2017 - 2021
+
+# Contacts
+
+LinkedIN - https://www.linkedin.com/in/aurimas-plaga/
+Email - aurimasplaga@gmail.com
